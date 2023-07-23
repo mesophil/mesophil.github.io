@@ -149,7 +149,7 @@ content:
             The recyclability of Lithium Ion batteries is a longstanding issue in sustainable tech. I simulated and tested a new design for easily recyclable lithium ion batteries, which used a nonstandard material cover to minimize the surface interactions. I generated the data in ABAQUS, and analyzed it in C++/Python.
 
       - layout: left
-        title: Robotics and Vision Lab & UofA
+        title: Robotics & Vision Lab @ UofA
         link: mesophil.github.io
         link_text: Python | TensorFlow | C
         sub_title: Software Engineer / Machine Learning Research Intern
