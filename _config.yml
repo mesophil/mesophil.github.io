@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Nico Schiavone
-#title: 
+title: Student 
 email: nschiavo@ualberta.ca
 website: mesophil.github.io
 
@@ -107,6 +107,58 @@ content:
             
             I wrote a co-first author paper based on this work, which is currently under review in a prestigious computer vision conference.
 
+      - layout: left
+        title: TRIUMF
+        link: triumf.ca
+        link_text: C++ | Python
+        # additional_links:
+        #   - title: Python | PyTorch
+        sub_title: Research & Development Co-Op
+        caption: May 2022 - August 2022
+        # quote: >
+        #   Python | PyTorch
+        description: | # this will include new lines to allow paragraphs
+            At TRIUMF, Canada's particle accelerator, I worked on the international collaboration project Hyper-Kamiokande. I took up the lead role in operating and maintaining a DAQ gantry and laser setup. I documented the C++ programs that allowed the gantry to move in precise increments, and I used Python scripts to calibrate each individual component for optimal accuracy.
+
+            During my tenure at the lab, I also noticed that the test facility lacked a proper security system, so I designed a Raspberry-Pi based safety system to allow for a more streamlined workflow in the future.
+
+      - layout: left
+        title: Marsiglio Group @ UofA
+        link: https://apps.ualberta.ca/directory/person/fm3
+        link_text: Julia | Python
+        # additional_links:
+        #   - title: Python | PyTorch
+        sub_title: Quantum Physics Researcher
+        caption: May 2021 - August 2021
+        # quote: >
+        #   Python | PyTorch
+        description: | # this will include new lines to allow paragraphs
+            As part of the Marsiglio Research Group at the University of Alberta, I researched the effect of inhomogeneous pairing interactions on the symmetry of the superconducting state. In the process, I implemented a work based on Bardeen-Cooper-Schrieffer theory and Bogliubov-de Gennes formalism in Python, and later Julia. I performed a time complexity analysis and optimized the calculation algorithms, leading to 75% faster runtimes. 
+
+      - layout: left
+        title: Tang Group @ UofA
+        link: https://sites.ualberta.ca/~ttang1/
+        link_text: C++ | Python
+        # additional_links:
+        #   - title: Python | PyTorch
+        sub_title: Mechanical Engineering Researcher
+        caption: May 2020 - August 2020
+        # quote: >
+        #   Python | PyTorch
+        description: | # this will include new lines to allow paragraphs
+            The recyclability of Lithium Ion batteries is a longstanding issue in sustainable tech. I simulated and tested a new design for easily recyclable lithium ion batteries, which used a nonstandard material cover to minimize the surface interactions. I generated the data in ABAQUS, and analyzed it in C++/Python.
+
+      - layout: left
+        title: Robotics and Vision Lab & UofA
+        link:
+        link_text: Python | TensorFlow | C
+        sub_title: Software Engineer / Machine Learning Research Intern
+        caption: July 2018 - Aug 2018
+        description: | # this will include new lines to allow paragraphs
+            One of my earliest forays into machine learning. I won a scholarship to take part in cutting edge computer vision research with Dr. Nilanjan Ray. Together, we obtained and built a custom dataset for breast cancer, and trained a CNN to classify these images with 90+% accuracy in a supervised setting.
+
+            Simultaneously, I worked with my peers in developing a line-tracking robot with collision avoidance, which successfully navigated a difficult course without errors.
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -129,7 +181,8 @@ content:
       - Figure Drawing
       - Cooking (esp. baking)
       - Building mechanical keyboards
-      - Gaming
+      - Tabletop gaming
+      - Playing ARPGs
 
 # Footer
 footer_show_references: true
