@@ -1,6 +1,6 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/favicon.ico
+favicon: images/green.jpg
 
 # Content configuration version
 version: 2
@@ -46,10 +46,12 @@ linkedin_username: nicoschiavone
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/fish.png
 about_content: | # this will include new lines to allow paragraphs
   Hello! My name is Nico Schiavone. I'm a current fifth year Engineering Physics Major, Mathematics Minor at the University of Alberta. I work as a software engineer at TELUS, and as a computer vision researcher with Dr. Xingyu Li.
   
+  After graduation, I plan to enter into a Ph.D in Computer Science, or work as a software engineer in industry.
+
   My strengths are <mark>Python</mark> and <mark>Algorithm Design</mark>.
 
 content:
@@ -78,7 +80,7 @@ content:
       - layout: left
         title: TELUS
         link: telus.com
-        # link_text: boringcompany.com
+        #link_text: telus.com
         sub_title: Software Engineer Co-Op
         caption: January 2023 - Present
         quote: >
@@ -125,7 +127,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: References available upon request
+references_title: Made with love and thievery
 
 # Build settings
 remote_theme: sproogen/resume-theme
