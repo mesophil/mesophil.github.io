@@ -79,10 +79,10 @@ content:
     content:
       - layout: left
         title: TELUS
-        #link: telus.com
-        #link_text: 
-        additional_links:
-          - title: Python | C++ | GCP | Postgres | Flask | PyTorch
+        link: telus.com
+        link_text: Python | C++ | GCP | Postgres | Flask | PyTorch
+        # additional_links:
+        #   - title: Python | C++ | GCP | Postgres | Flask | PyTorch
         sub_title: Software Engineer Co-Op
         caption: January 2023 - Present
         # quote: >
@@ -94,14 +94,14 @@ content:
 
       - layout: left
         title: University of Alberta
-        # link: telus.com
-        # link_text: Python | PyTorch
-        additional_links:
-          - title: Python | PyTorch
+        link: ualberta.ca
+        link_text: Python | PyTorch
+        # additional_links:
+        #   - title: Python | PyTorch
         sub_title: Machine Learning Researcher
         caption: January 2023 - Present
-        # quote: >
-        #   Python | PyTorch
+        quote: >
+          Python | PyTorch
         description: | # this will include new lines to allow paragraphs
             As a machine learning researcher under Dr. Xingyu Li, I tackled the problem of how to use the world's rapidly growing repository of unlabelled data. I designed a novel algorithm for active few shot learning in computer vision that competed with state-of-the-art algorithms while using 80% less annotation data. 
             
