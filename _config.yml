@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Nico Schiavone
-title: Student 
+title: - 
 email: nschiavo@ualberta.ca
 website: mesophil.github.io
 
@@ -77,20 +77,6 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: TELUS
-        link: telus.com
-        link_text: Python | C++ | GCP | Postgres | Flask | PyTorch
-        # additional_links:
-        #   - title: Python | C++ | GCP | Postgres | Flask | PyTorch
-        sub_title: Software Engineer Co-Op
-        caption: January 2023 - Present
-        # quote: >
-        #   Python | C++ | GCP | Postgres | Flask | PyTorch
-        description: | # this will include new lines to allow paragraphs
-            Making quality software is a difficult, time consuming process. At TELUS, I designed systems from the ground up, leading to significant time-saves across multiple teams. I spearheaded the development of an XML analysis tool for 20+ person teams, automatically correcting errors between sets of files, and reducing the time spent per file by up to 95%. 
-            
-            I also developed a document extraction tool for the standards team in Python, using semi-supervised learning and OCR tech, potentially increasing the efficiency of data transfer by 90%. Finally, I finished the development and oversaw the prototyping process for a revenue prediction tool used for planning cell towers, opening a new avenue for the planning and strategy team.
 
       - layout: left
         title: University of Alberta
@@ -105,7 +91,24 @@ content:
         description: | # this will include new lines to allow paragraphs
             As a machine learning researcher under Dr. Xingyu Li, I tackled the problem of how to use the world's rapidly growing repository of unlabelled data. I designed a novel algorithm for active few shot learning in computer vision that competed with state-of-the-art algorithms while using 80% less annotation data. 
             
-            I wrote a co-first author paper based on this work, which is currently under review in a prestigious computer vision conference.
+            I wrote a co-first author paper based on this work, which is currently under review, but is available at http://arxiv.org/abs/2310.16161
+
+            Currently, I am working on incorporating the reinforcement learning paradigm into my goal of understanding adaptability in AI algorithms. To this end, I am designing an RL algorithm that interfaces with large generative models for label-free classification.
+
+      - layout: left
+        title: TELUS
+        link: telus.com
+        link_text: Python | C++ | GCP | Postgres | Flask | PyTorch
+        # additional_links:
+        #   - title: Python | C++ | GCP | Postgres | Flask | PyTorch
+        sub_title: Software Engineer Co-Op
+        caption: January 2023 - August 2023
+        # quote: >
+        #   Python | C++ | GCP | Postgres | Flask | PyTorch
+        description: | # this will include new lines to allow paragraphs
+            Making quality software is a difficult, time consuming process. At TELUS, I designed systems from the ground up, leading to significant time-saves across multiple teams. I spearheaded the development of an XML analysis tool for 20+ person teams, automatically correcting errors between sets of files, and reducing the time spent per file by up to 95%. 
+            
+            I also developed a document extraction tool for the standards team in Python, using semi-supervised learning and OCR tech, potentially increasing the efficiency of data transfer by 90%. Finally, I finished the development and oversaw the prototyping process for a revenue prediction tool used for planning cell towers, opening a new avenue for the planning and strategy team.
 
       - layout: left
         title: TRIUMF
@@ -179,6 +182,7 @@ content:
   - title: Awards
     layout: text
     content: |
+      - Dean's Research Award (2023)
       - NSERC Undergraduate Student Research Award (2022 [declined], 2021, 2020)
       - Joseph and Edwina Charyk Scholarship in Engineering Physics (2022, 2021)
       - Louise McKinney Scholarship (2022)
