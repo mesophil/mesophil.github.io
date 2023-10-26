@@ -181,7 +181,7 @@ content:
   - title: Publications
     layout: text
     content: |
-      - MyriadAL: Active Few Shot Learning for Histopathology. **Nico Schiavone**, Jingyi Wang, Shuangzhi Li, Roger Zemp, Xingyu Li. arXiv Preprint, October 24th, 2023
+      - *MyriadAL: Active Few Shot Learning for Histopathology*. **Nico Schiavone**, Jingyi Wang, Shuangzhi Li, Roger Zemp, Xingyu Li. arXiv Preprint, October 24th, 2023
 
   - title: Awards
     layout: text
