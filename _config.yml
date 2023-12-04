@@ -12,7 +12,7 @@ email: nschiavo@ualberta.ca
 website: mesophil.github.io
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 # twitter_username:
@@ -46,11 +46,11 @@ linkedin_username: nicoschiavone
 
 # About Section
 # about_title: About Me
-about_profile_image: images/fish.png
+about_profile_image: images/defect.png
 about_content: | # this will include new lines to allow paragraphs
-  Hello! My name is Nico Schiavone. I'm a current fifth year Engineering Physics Major, Mathematics Minor at the University of Alberta. I work as a software engineer at TELUS, and as a computer vision researcher with Dr. Xingyu Li.
+  Hello! My name is Nico Schiavone. I'm a current fifth year Engineering Physics Major, Mathematics Minor at the University of Alberta. I work as a computer vision researcher with Dr. Xingyu Li.
   
-  After graduation, I plan to enter into a Ph.D in Computer Science, or work as a software engineer in industry.
+  After graduation, I plan to enter into a Ph.D in Computer Science!
 
   My strengths are <mark>Python</mark> and <mark>Algorithm Design</mark>. I also know <mark>Java</mark>, <mark>C++</mark>, and a bit of <mark>C</mark>.
 
@@ -73,6 +73,14 @@ content:
   #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   #       description: | # this will include new lines to allow paragraphs
   #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+  - title: Publications and Presentations
+    layout: text
+    content: |
+      - **N. Schiavone**, X. Li (2023). *Generative Models for Data Efficient Classification*. [Poster, uAlberta Dean’s Research Award Presentations ‘23]
+      - **N. Schiavone**, J. Wang, S. Li, R. Zemp, X. Li (2023). **MyriadAL: Active Few Shot Learning for Histopathology**. [Preprint available on arXiv, currently *under review*].
+      - **N. Schiavone**, F. Marsiglio (2021). *Algorithmic Matrix Mechanics for Superconductors*. [Poster, uAlberta Undergraduate Physics Symposium ‘21].
+      - **N. Schiavone**, E. Davidge, N. Ray, A. Hess, R. Kube (2018). *On the Role of Neural Networks and Deep Learning in the Identification of Breast Cancer Cells*. [Poster, uAlberta Computing Science Symposium ‘18]
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
