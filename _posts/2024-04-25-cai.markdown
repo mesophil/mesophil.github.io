@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "MyriadAL: Active Few Shot Learning for Histopathology"
+date:   2024-04-25 22:21:59 +00:00
+image: /images/cai_pic.png
+categories: research
+author: "Nico Schiavone"
+authors: "<strong>Nico Schiavone</strong>, Jingyi Wang, Shuangzhi Li, Roger Zemp, Xingyu Li"
+venue: "IEEE Conference on Artificial Intelligence"
+arxiv: https://arxiv.org/pdf/2310.16161
+code: https://github.com/mesophil/myriadal
+---
+In this study, we address this issue in the scenario where the annotation budget is very limited, yet a large amount of unlabelled data for the target task is available. We frame this work in the context of histopathology where labelling is prohibitively expensive.

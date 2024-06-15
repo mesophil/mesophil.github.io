@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "HUGINN"
+date:   2024-05-01 22:21:59 +00:00
+image: /images/huginn.jpg
+categories: personal
+author: "Nico Schiavone"
+authors: "<strong>Nico Schiavone</strong>, Yeh-In Kang, Hariharan Krishnan"
+code: https://github.com/mesophil/huginn
+---
+Autonomous retrieval drone made for a capstone project. Utilizes ROS and YOLOV8 to autonomously find the object of choice, and magnetic grippers to pick it up.

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Reinforcement Learning with Generative Models for Compact Support Sets"
+date:   2024-04-26 22:21:59 +00:00
+image: /images/rlsyn_pic.png
+categories: research
+author: "Nico Schiavone"
+authors: "<strong>Nico Schiavone</strong>, Xingyu Li"
+venue: "arXiv"
+arxiv: https://arxiv.org/pdf/2310.16161
+code: https://github.com/mesophil/deeprl
+---
+In this work, we propose a framework utilizing reinforcement learning as a control for foundation models, allowing for the granular generation of small, focused synthetic support sets to augment the performance of neural network models on real data classification tasks.
