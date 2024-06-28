@@ -7,4 +7,4 @@ categories: personal
 author: "Nico Schiavone"
 code: https://github.com/mesophil/scrapy-pg
 ---
-A web scraping project using [Scrapy](https://scrapy.org/) and [Playwright](https://playwright.dev/), developing into a command-line tool for easy shopping on ecommerce sites.
+A web scraping project using [Scrapy](https://scrapy.org/) and [Playwright](https://playwright.dev/), developing into a command-line tool for easy shopping on ecommerce sites. Check it out [here](https://mesophil.github.io/scrapy-pg).
