@@ -10,4 +10,4 @@ venue: "IEEE Conference on Artificial Intelligence"
 arxiv: https://arxiv.org/pdf/2310.16161
 code: https://github.com/mesophil/myriadal
 ---
-**Oral Presentation (Top ~15%).** In this study, we address this issue in the scenario where the annotation budget is very limited, yet a large amount of unlabelled data for the target task is available. We frame this work in the context of histopathology where labelling is prohibitively expensive.
+**Oral Presentation (Top ~5% of Accepted Papers).** In this study, we address this issue in the scenario where the annotation budget is very limited, yet a large amount of unlabelled data for the target task is available. We frame this work in the context of histopathology where labelling is prohibitively expensive.
