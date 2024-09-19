@@ -7,7 +7,7 @@ categories: research
 author: "Nico Schiavone"
 authors: "<strong>Nico Schiavone</strong>, Xingyu Li"
 venue: "arXiv"
-arxiv: https://arxiv.org/pdf/2310.16161
+arxiv: https://arxiv.org/abs/2404.16300
 code: https://github.com/mesophil/deeprl
 ---
 In this work, we propose a framework utilizing reinforcement learning as a control for foundation models, allowing for the granular generation of small, focused synthetic support sets to augment the performance of neural network models on real data classification tasks.
