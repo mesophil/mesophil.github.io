@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "It's Rational for AI Agents to Procrastinate"
-date:   2025-07-22 22:21:59 +00:00
+date:   2025-07-21 22:21:59 +00:00
 image: /images/laziness.png
 categories: research
 author: "Nico Schiavone"
